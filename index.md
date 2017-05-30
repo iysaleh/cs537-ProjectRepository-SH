@@ -2,7 +2,7 @@
 * * *
 The goal of this project is to teach a research paper to the students of CS537_01-Scheduling Algorithms at California State Polytechnic University, Pomona in Spring 2017.
 
-This research is being done by [Elinor Huntington](eahuntington@cpp.edu) and [Ibraheem Saleh](iysaleh@cpp.edu)
+This research is being done by Elinor Huntington and Ibraheem Saleh
 
 ### Finished Project Links
 * * *
@@ -13,6 +13,6 @@ This research is being done by [Elinor Huntington](eahuntington@cpp.edu) and [Ib
 
 ### Authors & Contact
 * * *
-[Elinor Huntington](eahuntington@cpp.edu)
+Elinor Huntington : <eahuntington@cpp.edu>
 
-[Ibraheem Saleh](iysaleh@cpp.edu)
+Ibraheem Saleh : <iysaleh@cpp.edu>
