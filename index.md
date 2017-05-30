@@ -7,7 +7,7 @@ This research is being done by [Elinor Huntington](eahuntington@cpp.edu) and [Ib
 ### Finished Project Links
 * * *
 
-[Reasearch Paper](https://github.com/iysaleh/cs537-ProjectRepository-SH/raw/master/AClassificationofReal-TimeMultiprocessorSchedulingProblemsandAlgorithms.docx)
+[Reasearch Paper](https://docs.google.com/document/d/1QBwnLCp9Pe4NF4YF5adlIIPfdb75ZboGCbAoutgmVGY/edit?usp=sharing)
 
 [Research Presentation](https://github.com/iysaleh/cs537-ProjectRepository-SH/raw/master/HuntintonSaleh_Ch30_CategorizationOfRealTimeMultiprocSchedProbs_Finalized.pptx)
 
